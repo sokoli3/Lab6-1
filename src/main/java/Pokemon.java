@@ -196,6 +196,7 @@ public class Pokemon {
             System.out.println("The rolls are " + damage1 + ", " + damage2 + ", " + "and "
                     + damage3 + " totaling: " + totalDamage + " damage!");
 
+
             /*
              * Does opponent have hit points left?
              */
